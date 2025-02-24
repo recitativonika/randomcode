@@ -1,1 +1,1 @@
-auto claim monad faucet https://www.gas.zip/faucet/monad
+auto claim monad faucet every 6 hour https://www.gas.zip/faucet/monad
